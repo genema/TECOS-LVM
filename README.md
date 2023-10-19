@@ -8,7 +8,7 @@
 
 ![PROJASGARD](https://img.shields.io/badge/Project-ASGARD-orange)
 
-Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes
+**Te**mporal **Co**nditioning **S**piking **L**atent **V**ariable **M**odels of the Neural Response to Natural Visual Scenes
 - **Update 23-9-22** 🎉: Accepted at [NeurIPS 2023](http://nips.cc).
 
 
