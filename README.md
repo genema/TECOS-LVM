@@ -1,6 +1,6 @@
 <img src="https://github.com/genema/Noisy-Spiking-Neuron-Nets/raw/master/proj_logo.jpg" width="200px" align="left">
 
-# [NeurIPS 2023] TECOS-LVM
+# [NeurIPS 2023] TeCoS-LVM
 
 ![Python](https://img.shields.io/badge/Python-3.8.16-brightgreen)
 
