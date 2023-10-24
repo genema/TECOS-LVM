@@ -9,7 +9,7 @@
 ![PROJASGARD](https://img.shields.io/badge/Project-ASGARD-orange)
 
 **Te**mporal **Co**nditioning **S**piking **L**atent **V**ariable **M**odels of the Neural Response to Natural Visual Scenes
-- **Update 23-9-22** 🎉: Accepted at [NeurIPS 2023](http://nips.cc).
+- **Update 23-9-22** 🎉: Accepted at [NeurIPS 2023](https://neurips.cc/virtual/2023/poster/71480).
 
 
 ## Summary
