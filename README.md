@@ -19,13 +19,15 @@ Developing computational models of neural response is crucial for understand- in
 Special thanks to *Prof. Arno Onken* (Univ. of Edinburgh) for generous help and *Dr. Tao Fang* (Zhejiang Univ.) for helpful discussions.
 
 ## Citation info
-A [*preprint version*](https://doi.org/10.48550/arXiv.2306.12045):
+~A [*preprint version*](https://doi.org/10.48550/arXiv.2306.12045):~
 
+Formal:
 ```bibtex
 @inproceedings{ma2023temporal,
   title={Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes},
   author={Gehua Ma and Runhao Jiang and Rui Yan and Huajin Tang},
-  booktitle={Advances in Neural Information Processing Systems(NeurIPS)},
-  year={2023}
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023},
+  url={https://openreview.net/forum?id=V4YeOvsQfu}
 }
 ```
